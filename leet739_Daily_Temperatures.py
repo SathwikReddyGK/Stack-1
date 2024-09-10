@@ -1,6 +1,6 @@
 # Solution
 
-# // Time Complexity :  O(N)
+# // Time Complexity :  O(2N) -> Worst case when none of the values have higher value till the last element
 # // Space Complexity : O(N)
 # // Did this code successfully run on Leetcode : Yes
 # // Any problem you faced while coding this : No
